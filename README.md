@@ -1,7 +1,7 @@
 # Hi, I'm Ashutosh Pathak 👋
 **Maritime Data Analyst | Business Analytics | Python · SQL · Geospatial · AIS**
 
-I'm a data-focused professional combining three years of industry experience in data engineering and product analytics with academic research in maritime intelligence, geospatial analysis, and emissions modelling. I specialise in translating complex datasets into working analytical tools that drive real decisions — from battery warranty policies at an EV startup to carbon corridor assessments for Irish coastal shipping.
+I'm a data-focused professional combining three years of industry experience in data engineering and product analytics with academic research in maritime intelligence, geospatial analysis, and emissions modelling. I specialise in translating complex datasets into working analytical tools that drive real decisions from battery warranty policies at an EV startup to carbon corridor assessments for Irish coastal shipping.
 
 ---
 
@@ -41,7 +41,7 @@ Numeros Motors Pvt. Ltd., Bengaluru, India | 2021–2024
 
 At Numeros, an electric vehicle startup, I:
 
-- Built Python-SQL pipelines on live IoT telemetry (Bytebeam/ClickHouse), analysing 400 charge cycles over 27,356 km — output directly set company battery warranty policy
+- Built Python-SQL pipelines on live IoT telemetry (Bytebeam/ClickHouse), analysing 400 charge cycles over 27,356 km, output directly set company battery warranty policy
 - Conducted root cause analysis on a regeneration overcurrent fault (20A limit / 45A+ observed) across 42 field test rides, resolving a critical pre-launch quality issue
 - Built statistical demand forecasting models achieving ~90% accuracy and automated Python KPI dashboards reducing manual effort by ~40%
 - Led primary market research across 500 delivery executives in 6 Indian cities using regression, correlation, and descriptive statistics
