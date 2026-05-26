@@ -90,7 +90,7 @@ Git · GitHub · Documentation Best Practices
 | **OceanTrail** | Maritime intelligence platform - AIS analytics, emissions modelling, port dwell detection | Python · Dash · Supabase · PostGIS · Mapbox |
 | **Skillnari** | AI skill gap diagnostic tool for clean energy careers | Flask · React · BERT · GloVe · NLP |
 | **AICMM-H** | AI Capability Maturity Model for hospitality - 5-level, 6-dimension framework | Python · Radar/Bar dashboards |
-| **DSS - Plastic Recycling** | AHP-TOPSIS multi-criteria decision support for Irish manufacturing sustainability policy | Python · Multi-criteria analysis |
+| **DSS - Plastic Recycling** | AHP-TOPSIS multi-criteria decision support for Irish manufacturing sustainability policy | Excel · Multi-criteria analysis |
 
 ---
 
