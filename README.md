@@ -1,5 +1,5 @@
 # Hi, I'm Ashu 👋
-**Maritime Data Analyst | Business Analytics | Python · SQL · Geospatial · AIS**
+**Maritime Resarch Assistant - Data Scientist | Business Analytics | Python · SQL · Geospatial · AIS**
 
 I'm a data-focused professional combining three years of industry experience in data engineering and product analytics with academic research in maritime intelligence, geospatial analysis, and emissions modelling. I specialise in translating complex datasets into working analytical tools that drive real decisions from battery warranty policies at an EV startup to carbon corridor assessments for Irish coastal shipping.
 
